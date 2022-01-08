@@ -1,0 +1,1 @@
+O algoritmo de Fleury é utilizado para a construção ou identificação de um ciclo euleriano em um grafo euleriano. Um caminho ou um circuito é dito euleriano se ele contém todas as arestas de um grafo. Um grafo que contém um circuito euleriano é um grafo euleriano.
